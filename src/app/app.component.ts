@@ -18,6 +18,22 @@ export class AppComponent {
     {
       id: 3,
       name: 'Reto 3',
+    },
+    {
+      id: 4,
+      name: 'Reto 4',
+    },
+    {
+      id: 5,
+      name: 'Reto 5',
+    },
+    {
+      id: 6,
+      name: 'Reto 6',
+    },
+    {
+      id: 7,
+      name: 'Reto 7',
     }
   ];
   variaciones = [
@@ -37,9 +53,24 @@ export class AppComponent {
       name: 'C',
     },
     {
-      id: 3,
-      idPadre: 1,
-      name: 'B',
+      id: 4,
+      idPadre: 4,
+      name: 'D',
+    },
+    {
+      id: 5,
+      idPadre: 5,
+      name: 'E',
+    },
+    {
+      id: 6,
+      idPadre: 6,
+      name: 'F',
+    },
+    {
+      id: 7,
+      idPadre: 7,
+      name: 'G',
     }
   ];
   equivalencia = [
@@ -57,6 +88,21 @@ export class AppComponent {
       id: 3,
       idPadre: 2,
       name: '11',
+    },
+    {
+      id: 4,
+      idPadre: 2,
+      name: '12',
+    },
+    {
+      id: 5,
+      idPadre: 3,
+      name: '13',
+    },
+    {
+      id: 6,
+      idPadre: 3,
+      name: '14',
     }
   ];
 
